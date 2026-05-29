@@ -1,7 +1,7 @@
 
 Olá, eu sou Roger Oliveira 👋
 
-Desenvolvedor Python focado em automação de processos operacionais, logística e gestão de frotas.
+Desenvolvedor Python/Analista de TI focado em automação de processos operacionais, logística e gestão de frotas.
 
 🚀 Projeto Principal
 Rota360 / FleetControl
